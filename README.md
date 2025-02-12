@@ -1,24 +1,3 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- Udemy, Proglus（プログラス）にて公開中のRuby on Rails入門カリキュラムのサンプルコードです。
+- 該当コースの受講生の方が、個人的な学習の範囲内でご利用いただけます。
+- 無断転載を禁止します。(c)2025 Yuta Nakamura, Proglus Inc.
